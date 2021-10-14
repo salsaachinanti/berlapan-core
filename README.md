@@ -1,3 +1,6 @@
+[![Test and Deploy][actions-badge]][commits-gh]
+[![pipeline status][pipeline-badge]][commits-gl]
+[![coverage report][coverage-badge]][commits-gl]
 # Berlapan project
 Bersatu kita teguh, bercerai kita runtuh
 
