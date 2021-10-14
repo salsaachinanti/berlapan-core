@@ -38,3 +38,9 @@ Dengan Berlapan, pengguna dapat saling memberikan bantuan material, mendaftarkan
 - Relawan Donor Darah
 - Daftar Vaksin
 - Tes Swab/PCR
+
+[commits-gl]: https://gitlab.com/defranssco/berlapan-core/-/commits/master
+[commits-gh]: https://github.com/defranssco/berlapan-core/commits/master
+[coverage-badge]: https://gitlab.com/defranssco/berlapan-core/badges/master/coverage.svg
+[pipeline-badge]: https://gitlab.com/defranssco/berlapan-core/badges/master/pipeline.svg
+[actions-badge]: https://github.com/defranssco/berlapan-core/workflows/Test%20and%20Deploy/badge.svg
