@@ -2,8 +2,11 @@ from django.urls import path
 
 from . import views
 
-app_name = 'main'
+app_name = 'donorpage'
 
 urlpatterns = [
-    path('', views.home, name='home'),
+    path('', views.donorPage, name='donorpage'),
+    path('layananpage/', views.layananPage, name='layananpage'),
+    path('form/', views.formPage, name='form'),
+    path('outputform/', views.hasilFormPage, name='outputform'),
 ]
